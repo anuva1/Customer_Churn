@@ -1,4 +1,5 @@
 #### Customer Churn Analytics :
+####  Develope a framework to understand the effect of factors contributing to churn and build a model over it to detect early churn behaviour in customers
 * Import all Libraries
 * Download the data files
 * Understanding the data
